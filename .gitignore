@@ -2,6 +2,14 @@
 # Created by https://www.gitignore.io/api/tex,emacs,latex
 # Edit at https://www.gitignore.io/?templates=tex,emacs,latex
 
+./at-coverletter
+./at-coverletter/*
+./branch-coverletter
+./branch-coverletter/*
+./ona-coverletter
+./ona-coverletter/*
+
+
 ### Emacs ###
 # -*- mode: gitignore; -*-
 *~
